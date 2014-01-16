@@ -1,9 +1,12 @@
 {
-  "name": "benburkhart1/sharp-aquos-remote-control",
+  "name": "sharp-aquos-remote-control",
 	"type": "library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library for accessing the IP Remote functionality provided in some Sharp Aquos televisions.",
   "license": "MIT",
+	"directories": [
+		"lib"
+	],
 	"authors": [
 			{
 					"name": "Benjamin Burkhart",
