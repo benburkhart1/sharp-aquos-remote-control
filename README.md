@@ -108,6 +108,9 @@ The commands are one of the following
 | VOLM    | Volume          |
 | CLCP    | Closed Captioning  |
 | IAVD    | Input           |
+| CHUP    | Channel Up      |
+| CHDW    | Channel Down    |
+
 
 #### The following commands are not implemented yet.
 
@@ -117,7 +120,3 @@ The commands are one of the following
 | WIDE    | Widescreen Mode |
 | OFTM    | Off Timer       |
 | DCCH    | Change Channel  |
-| CHUP    | Channel Up      |
-| CHDW    | Channel Down    |
-
-
